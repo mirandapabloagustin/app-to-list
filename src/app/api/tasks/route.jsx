@@ -1,6 +1,9 @@
 import {NextResponse} from 'next/server';
 
+
+
 export function GET() {
+
   return NextResponse.json({
     status: "200",
     message: "Listando todas las tareas"
