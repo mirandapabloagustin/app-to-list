@@ -22,6 +22,12 @@ const tasksdb = [
     title: 'Pasear al perro',
     description: 'Acuda tiene que pasear al perro',
     status: false
+  },
+  {
+    id: 5,
+    title: 'Hacer la compra',
+    description: 'Acuda tiene que hacer la compra',
+    status: false
   }
 ]
 
